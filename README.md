@@ -9,7 +9,7 @@ The current goal of MinecraftConsoles is to be a multi-platform base for further
 
 See our our [Contributor's Guide](./CONTRIBUTING.md) for more information on the goals of this project.
 
-## Download
+## Download 
 ### Client
 Windows users can download our [Nightly Build](https://github.com/smartcmd/MinecraftConsoles/releases/tag/nightly)! Simply download the `.zip` file and extract it to a folder where you'd like to keep the game. You can set your username in `username.txt` (you'll have to make this file)
 ### Server
